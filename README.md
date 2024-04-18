@@ -1,15 +1,22 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pankaj Kumar
+<h1 align="center">Hi👋, I'm Pankaj Kumar</h1>
 
-## MERN Stack Developer
+<p align="center">Passionate MERN stack developer who loves to create responsive, user-friendly websites. Skilled in HTML, CSS, and JavaScript as well as front-end frameworks like React js and Next js. Capable of building user interfaces with intuitive functioning and incorporating advanced functions. A fantastic problem-solver with a quick learning curve and a strong work ethic. I have a bachelor's in computer application, and I have experience working on a number of projects, so I am confident in my ability to contribute to your team and help your company grow.</p>
 
-Passionate MERN stack developer who loves to create responsive, user-friendly websites. Skilled in HTML, CSS, and JavaScript as well as front-end frameworks like React js and Next js. Capable of building user interfaces with intuitive functioning and incorporating advanced functions. A fantastic problem-solver with a quick learning curve and a strong work ethic. I have a bachelor's in computer application, and I have experience working on a number of projects, so I am confident in my ability to contribute to your team and help your company grow.
 
 - 🌍  I'm based in India
-- 🖥️  See my portfolio at [pankajKhuswha](http://hhh)
+   
 - ✉️  You can contact me at [khuswahapankaj00@gmail.com](mailto:khuswahapankaj00@gmail.com)
-- 🚀  I'm currently working on [Content Management System](http://cms.deepmart.shop)
-- 🧠  I'm learning Next js , Vue js
+  
+- 👨‍💻 All of my projects are available at [https://pankajkushwaha.vercel.app/](https://pankajkushwaha.vercel.app/)
+  
+- 🔭 I’m currently working on [Itsy Bizz](https://itsybizz.com/)
+
+- 🌱 I’m currently learning **Anugular,PostGreSQL**
+
+- 💬 Ask me about **React ,NextJS ,NodeJS,ExpressJS**
+   
 - 🤝  I'm open to collaborating on open source MERN project's
+ 
 - ⚡  I crack 💥 my finger's with single hand 🖐 💥
 
 ### Skills
